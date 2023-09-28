@@ -1,5 +1,2 @@
 #!/bin/bash
-
-read FileName
-pwd $"{FileName}"
-
+pwd 
